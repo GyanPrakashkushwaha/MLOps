@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/vscode_machineLearning/MLOps/mlruns/494606105088162121/9f44c7676ec642568b0681fe56510e7f/artifacts
+end_time: 1692679961698
+entry_point_name: ''
+experiment_id: '494606105088162121'
+lifecycle_stage: active
+run_id: 9f44c7676ec642568b0681fe56510e7f
+run_name: able-hen-164
+run_uuid: 9f44c7676ec642568b0681fe56510e7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692679953569
+status: 4
+tags: []
+user_id: Gyanprakash
