@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/vscode_machineLearning/MLOps/mlruns/190614006835353219/e39302bafd004eccac9441178171cee8/artifacts
+end_time: 1692771824607
+entry_point_name: ''
+experiment_id: '190614006835353219'
+lifecycle_stage: active
+run_id: e39302bafd004eccac9441178171cee8
+run_name: legendary-panda-4
+run_uuid: e39302bafd004eccac9441178171cee8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692771812088
+status: 3
+tags: []
+user_id: Gyanprakash
