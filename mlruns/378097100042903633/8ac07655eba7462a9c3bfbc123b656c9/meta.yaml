@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/vscode_machineLearning/MLOps/mlruns/378097100042903633/8ac07655eba7462a9c3bfbc123b656c9/artifacts
+end_time: 1692858406599
+entry_point_name: ''
+experiment_id: '378097100042903633'
+lifecycle_stage: active
+run_id: 8ac07655eba7462a9c3bfbc123b656c9
+run_name: valuable-trout-667
+run_uuid: 8ac07655eba7462a9c3bfbc123b656c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692858398483
+status: 3
+tags: []
+user_id: Gyanprakash
