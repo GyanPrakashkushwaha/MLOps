@@ -31,7 +31,10 @@ class model_registry:
                 
         print('Run - %s is logged to Experiment - %s' %(run_name, experiment_name))
 
+
         
+
+
 
 
         
