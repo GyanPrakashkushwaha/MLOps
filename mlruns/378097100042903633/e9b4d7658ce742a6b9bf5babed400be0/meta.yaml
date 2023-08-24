@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/vscode_machineLearning/MLOps/mlruns/378097100042903633/e9b4d7658ce742a6b9bf5babed400be0/artifacts
+end_time: 1692874543565
+entry_point_name: ''
+experiment_id: '378097100042903633'
+lifecycle_stage: active
+run_id: e9b4d7658ce742a6b9bf5babed400be0
+run_name: serious-loon-268
+run_uuid: e9b4d7658ce742a6b9bf5babed400be0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692874536920
+status: 3
+tags: []
+user_id: Gyanprakash
