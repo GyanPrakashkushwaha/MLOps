@@ -1,6 +1,6 @@
 import mlflow
 
-class model_registry:
+class ModelRegistry:
     def __init__(self,experiment_name ,run_name) -> None:
         self.experiment_name = experiment_name
         self.run_name = run_name
