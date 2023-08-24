@@ -9,6 +9,7 @@ class ModelRegistry:
     def create_experiment(self,run_name, run_metrics,model, confusion_matrix_path = None, 
                         roc_auc_plot_path = None, run_params=None):
         
+        mlflow.set_tracking_uri("http://localhost:5000")
         
         with mlflow.start_run():
             experiment_name = self.experiment_name

@@ -22,6 +22,7 @@ def create_roc_auc_plot(clf, X_test, y_test):
     plt.xlabel('False Positive Rate')
     plt.ylabel('True Positive Rate')
     plt.title('ROC Curve')
+    
     plt.legend(loc='best')
     # plt.savefig('roc_auc_curve.png')
     plt.show()
