@@ -4,16 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-def predict_on_test_data(model,X_test):
-    y_pred = model.predict(X_test)
-    return y_pred
-
-
-def predict_prob_on_test_data(model,X_test):
-    y_pred = model.predict_proba(X_test)
-    return y_pred
-
-
 def get_metrics(y_true, y_pred, y_pred_prob):
     acc = accuracy_score(y_true, y_pred)
     prec = precision_score(y_true, y_pred)

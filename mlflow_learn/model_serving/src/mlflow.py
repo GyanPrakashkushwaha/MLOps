@@ -9,7 +9,9 @@ class ModelRegistry:
     def create_experiment(self,run_name, run_metrics,model, confusion_matrix_path = None, 
                         roc_auc_plot_path = None, run_params=None):
         
+        
         with mlflow.start_run():
+            experiment_name = self.experiment_name
             
             if not run_params == None:
                 for param in run_params:
@@ -29,7 +31,7 @@ class ModelRegistry:
             mlflow.set_tag("tag1", "Random Forest")
             mlflow.set_tags({"tag2":"Randomized Search CV", "tag3":"Production"})
                 
-        print('Run - %s is logged to Experiment - %s' %(run_name, experiment_name))
+        # print('Run - %s is logged to Experiment - %s' %(run_name, 'experiment_name'))
 
 
         

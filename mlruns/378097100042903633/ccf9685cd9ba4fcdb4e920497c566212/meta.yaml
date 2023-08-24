@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/vscode_machineLearning/MLOps/mlruns/378097100042903633/ccf9685cd9ba4fcdb4e920497c566212/artifacts
+end_time: 1692856747931
+entry_point_name: ''
+experiment_id: '378097100042903633'
+lifecycle_stage: active
+run_id: ccf9685cd9ba4fcdb4e920497c566212
+run_name: omniscient-pug-602
+run_uuid: ccf9685cd9ba4fcdb4e920497c566212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692856742583
+status: 3
+tags: []
+user_id: Gyanprakash

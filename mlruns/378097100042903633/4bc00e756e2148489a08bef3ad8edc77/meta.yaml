@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/vscode_machineLearning/MLOps/mlruns/378097100042903633/4bc00e756e2148489a08bef3ad8edc77/artifacts
+end_time: 1692856728542
+entry_point_name: ''
+experiment_id: '378097100042903633'
+lifecycle_stage: active
+run_id: 4bc00e756e2148489a08bef3ad8edc77
+run_name: resilient-bird-481
+run_uuid: 4bc00e756e2148489a08bef3ad8edc77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692856722466
+status: 3
+tags: []
+user_id: Gyanprakash

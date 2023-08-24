@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/vscode_machineLearning/MLOps/mlruns/378097100042903633/c6d6fb914df8493083fc198ff1a4b4d3/artifacts
+end_time: 1692856580182
+entry_point_name: ''
+experiment_id: '378097100042903633'
+lifecycle_stage: active
+run_id: c6d6fb914df8493083fc198ff1a4b4d3
+run_name: carefree-koi-17
+run_uuid: c6d6fb914df8493083fc198ff1a4b4d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692856567031
+status: 3
+tags: []
+user_id: Gyanprakash

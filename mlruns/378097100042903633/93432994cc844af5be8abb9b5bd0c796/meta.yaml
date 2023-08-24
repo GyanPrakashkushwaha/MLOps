@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/vscode_machineLearning/MLOps/mlruns/378097100042903633/93432994cc844af5be8abb9b5bd0c796/artifacts
+end_time: 1692856710924
+entry_point_name: ''
+experiment_id: '378097100042903633'
+lifecycle_stage: active
+run_id: 93432994cc844af5be8abb9b5bd0c796
+run_name: beautiful-fawn-940
+run_uuid: 93432994cc844af5be8abb9b5bd0c796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692856705535
+status: 3
+tags: []
+user_id: Gyanprakash
