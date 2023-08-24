@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/vscode_machineLearning/MLOps/mlruns/878341868913775799/29333a8977814ac8a1d2c6cdc3dae602/artifacts
+end_time: 1692772064433
+entry_point_name: ''
+experiment_id: '878341868913775799'
+lifecycle_stage: active
+run_id: 29333a8977814ac8a1d2c6cdc3dae602
+run_name: adventurous-ox-638
+run_uuid: 29333a8977814ac8a1d2c6cdc3dae602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692772060058
+status: 3
+tags: []
+user_id: Gyanprakash

@@ -1,6 +1,0 @@
-artifact_location: file:///d:/vscode_machineLearning/MLOps/mlruns/190614006835353219
-creation_time: 1692679396709
-experiment_id: '190614006835353219'
-last_update_time: 1692679396709
-lifecycle_stage: active
-name: basic_classifier
