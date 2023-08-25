@@ -12,6 +12,7 @@ class ModelRegistry:
         mlflow.set_tracking_uri("http://localhost:5000") 
         #use above line if you want to use any database like sqlite as backend storage for model else comment this line
         mlflow.set_experiment(experiment_name)
+
         with mlflow.start_run(run_name=run_name) as run:
             if not run_params == None:
                 for param in run_params:
@@ -28,7 +29,7 @@ class ModelRegistry:
             
             mlflow.set_tag("tag1", "Random Forest")
             mlflow.set_tags({"tag2":"Randomized Search CV", "tag3":"Production"})
-            mlflow.sklearn.log_model(model, "model",registered_model_name="iris-classifier")
+            mlflow.sklearn.log_model(model, "model",registered_model_name="learning MLOps")
         
 
 
